@@ -19,7 +19,7 @@ Pong Game
   
   </h1>
 
- Acesse : https://desafio-pedidopago-n59rh1703-rafaelfigueiredo2203.vercel.app/
+
 
 
 
