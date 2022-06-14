@@ -40,7 +40,7 @@ Este projeto é um jogo  desenvolvido na matéria de Inteligência Artificial  d
 
 ## 🚀 Como executar
 
-- Acesse [Solar2D]([https://www.lua.org/](https://playground.solar2d.com/)
+- Acesse - [Solar2D]([https://www.lua.org/](https://playground.solar2d.com/)
 - Cole e rode o código .lua e pronto!
 
 
